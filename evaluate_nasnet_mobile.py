@@ -58,7 +58,7 @@ x=Dense(units=10,activation="softmax")(x)
 model=Model(inputs=base_model.input,outputs=x)
 
 # Loading trained model weigths
-model.load_weights("weights\\repo_nasnet_mobile_weights.h5")
+model.load_weights("weights\\nasnet_weights.h5")
 
 # Path to the result text file
 record_file_path=".\\record.txt"
