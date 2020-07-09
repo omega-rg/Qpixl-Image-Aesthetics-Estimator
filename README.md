@@ -57,7 +57,7 @@ Results are presented below for the same image by adding blurring, noise, distor
   <span style="font-size:1.2em;">5.27 +-(1.49)</span>
 </div>
 
-<br><br>
+<br>
 
 <div style="clear:right">
   <img src="./imgs/distort1.jpg" alt="parser_exmaple" width="150" style="float: left;margin-right:20px;">
@@ -66,7 +66,7 @@ Results are presented below for the same image by adding blurring, noise, distor
   <span style="font-size:1.2em;">4.99 +- (1.51)</span>
 </div>
 
-<br><br>
+<br>
 
 <div style="clear:right">
   <img src="./imgs/exposure.jpg" alt="parser_exmaple" width="150" style="float: left;margin-right:20px;">
@@ -75,7 +75,7 @@ Results are presented below for the same image by adding blurring, noise, distor
   <span style="font-size:1.2em;">5.39 +- (1.50) </span>
 </div>
 
-<br><br>
+<br>
 
 <div style="clear:right">
   <img src="./imgs/noise 200 per.jpg" alt="parser_exmaple" width="150" style="float: left;margin-right:20px;">
@@ -84,7 +84,7 @@ Results are presented below for the same image by adding blurring, noise, distor
   <span style="font-size:1.2em;">5.09 +- (1.44)</span>
 </div>
 
-<br><br>
+<br>
 
 <div style="clear:right">
   <img src="./imgs/blur 20 per.jpg" alt="parser_exmaple" width="150" style="float: left;margin-right:20px;">
